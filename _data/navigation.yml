@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: Working Groups 
+  link: /swg.html
+- name: Contact
+  link: /contact.html

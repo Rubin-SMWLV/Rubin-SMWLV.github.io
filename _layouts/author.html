@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<h1>{{ page.name }}</h1>
+<h2>{{ page.position }}</h2>
+<h2>{{ page.institution }}</h2>
+
+{% for author in site.authors %}
+  {% if author.name == page.name %}
+    <p>{{ author.content | markdownify }}</p>
+  {% endif %}
+{% endfor %}
