@@ -1,6 +1,12 @@
 - name: Home
   link: /
-- name: Working Groups 
-  link: /swg.html
 - name: Contact
   link: /contact.html
+- name: Working Groups 
+  link: /swg.html
+- name: Activities and Interests
+  link: /activities.html
+- name: Task Forces
+  link: /taskforces.html
+- name: Membership
+  link: /membership.html
