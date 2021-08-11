@@ -10,7 +10,7 @@ header { padding: 0px; text-align: center; font-size: 35px; color: black; }
 logo-right { text-align: left; }
 
 /* Create two columns/boxes that floats next to each other */
-nav { float: left; width: 20%; height: 300px; /* only for demonstration, should be removed */ background: #ccc; padding: 20px; }
+nav { float: left; width: 20%; /*  height: 300px;*/ /* only for demonstration, should be removed */ background: #ccc; padding: 20px; }
 
 /* Style the list inside the menu */
 nav ul { list-style-type: none; padding: 0; margin: 0; width: 100%; }
