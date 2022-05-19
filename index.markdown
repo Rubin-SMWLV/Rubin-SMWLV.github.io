@@ -2,14 +2,6 @@
 layout: default
 title: Home
 ---
-<p>
-<center>
-<b><i>Please note that this website is under active construction!
-For questions about this site please visit the <a href="/contact.html">Contact page</a>.
-<br>
-10 August 2021: Peregrine McGehee
-</i></b>
-</center>
 
 <p>
 The Stars, Milky Way, and Local Volume [SWMLV] Collaboration has the overarching goals of understanding the accretion history and structure of the Milky Way and the Local Volume, and the fundamental properties of stars within 300 pc of the Sun. 
