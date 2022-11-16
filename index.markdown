@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+18 November 2022
 
 <p>
 The Stars, Milky Way, and Local Volume [SWMLV] Collaboration has the overarching goals of understanding the accretion history and structure of the Milky Way and the Local Volume, and the fundamental properties of stars within 300 pc of the Sun. 
