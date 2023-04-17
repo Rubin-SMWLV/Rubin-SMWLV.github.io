@@ -1,7 +1,7 @@
 - name: Home
   link: /
-- name: Contact
-  link: /contact.html
+- name: Communication
+  link: /communication.html
 - name: Working Groups 
   link: /swg.html
 - name: Activities and Interests
@@ -12,4 +12,6 @@
   link: /membership.html
 - name: Documents
   link: /documents.html
+- name: Roadmap
+  link: /roadmap.html
 
