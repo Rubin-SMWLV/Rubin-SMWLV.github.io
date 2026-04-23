@@ -1,0 +1,14 @@
+---
+layout: default
+title: Staff
+---
+<page-title>Project Management Team</page-title>
+
+<ul>
+  {% for author in site.authors %}
+    <li>
+      <h2><a href="{{ author.url }}">{{ author.name }}</a></h2>
+      <h3>{{ author.position }}, {{ author.institution }}</h3>
+    </li>
+  {% endfor %}
+</ul>
